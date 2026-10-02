@@ -19,4 +19,6 @@ ez az enyém 2
 Ez az enyém 1
 {
 1
+2
+3
 }
