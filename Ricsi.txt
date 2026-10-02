@@ -18,6 +18,7 @@ ez az enyém 2
 
 Ez az enyém 1
 {
+Ricsi
 1
 2
 3
