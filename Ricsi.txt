@@ -10,4 +10,11 @@ Második
 ez az enyém 2 
 {
 1
+2    
+}
+
+
+Ez az enyém 1
+{
+1
 }
